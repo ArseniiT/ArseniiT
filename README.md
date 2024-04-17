@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## My CodeWars Profile
+### My CodeWars Profile
 [![CodeWars](https://www.codewars.com/users/Arstol/badges/small)](https://www.codewars.com/users/Arstol)
 
 <!--
