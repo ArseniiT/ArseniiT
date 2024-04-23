@@ -3,8 +3,10 @@
 ### My CodeWars Profile
 [![CodeWars](https://www.codewars.com/users/Arstol/badges/small)](https://www.codewars.com/users/Arstol)
 
-### My LeetCode Profile
+### [My LeetCode Profile](https://leetcode.com/arseniit/)
 ![LeetCode](https://leetcode-badge-sage.vercel.app/badge/arseniit?theme={light})
+
+### [My HackerRank Profile](https://www.hackerrank.com/profile/arstjob)
 
 <!--
 **ArseniiT/ArseniiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
