@@ -5,6 +5,7 @@
 
 ### [My LeetCode Profile](https://leetcode.com/arseniit/)
 ![LeetCode](https://leetcode-badge-sage.vercel.app/badge/arseniit?theme={light})
+![Leetcode Stats](https://leetcard.jacoblin.cool/arseniit?ext=heatmap)
 
 ### [My HackerRank Profile](https://www.hackerrank.com/profile/arstjob)
 
