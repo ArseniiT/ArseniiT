@@ -6,7 +6,7 @@
         <img src="badges\aws\aws-cloud-quest-solutions-architect.png" alt="solutions-architect" width="120" height="120">
     </a>
     <a href="https://www.credly.com/badges/63536278-6976-4154-8ace-8dafef17103b">
-        <img src="badges\aws\aws-certified-cloud-practitioner.png" alt="aws-certified-cloud-practitioner" width="120" height="120">
+        <img src="badges\aws\aws-certified-cloud-practitioner.png" alt="aws-certified-cloud-practitioner" width="150" height="150">
     </a>
     <a href="https://www.credly.com/badges/ea808e17-68ef-4c8b-88fd-168ec83b3257">
         <img src="badges\aws\aws-technology-cloud-essentials.png" alt="aws-technology-cloud-essentials" width="120" height="120">
