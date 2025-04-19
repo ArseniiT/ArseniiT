@@ -22,7 +22,7 @@
 <div style="display: flex; align-items: flex-start;">
     <img src="https://leetcard.jacoblin.cool/arseniit?ext=heatmap" alt="leetcode-stat" style="margin-right: 10px;">
     <img src="badges\leetcode\Top_SQL_50.png" alt="sql-50" width="100" height="100">
-    <img src="badges\leetcode\2025-365-days-120x120.png" alt="365-days-2025" width="100" height="100">
+    <img src="badges\leetcode\2025-365-days.png" alt="365-days-2025" width="100" height="100">
 </div>
 
 ---
